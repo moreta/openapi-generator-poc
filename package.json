@@ -1,0 +1,19 @@
+{
+  "name": "openapi-generator-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "openapi-generator-cli": "openapi-generator-cli"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.5.2",
+    "typescript": "^4.9.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

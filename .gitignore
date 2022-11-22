@@ -1,0 +1,9 @@
+# jetbrain
+.idea
+
+# node
+node_modules
+
+# openapi
+gen
+tmp
